@@ -68,6 +68,9 @@ jobs:
             - Próximos pasos sugeridos para abordar la solución (sin implementarla).
 
             PASO 6 — Publicar el diagnóstico:
+            Redacta el comentario en formato Markdown válido que GitHub pueda renderizar
+            correctamente (encabezados, listas, negritas, bloques de código con ``` cuando
+            corresponda, etc.).
             El comentario debe empezar en su primera línea EXACTAMENTE con el marcador
             `<!-- claude-issue-triage -->` (para poder identificarlo después).
             - Revisa los comentarios obtenidos en el paso 1: si ya existe uno que empiece con ese
